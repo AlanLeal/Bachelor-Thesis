@@ -8,4 +8,4 @@ Folder for Latex files and producing the main pdf output.
 Folder for Python and R code for conducting the econometric models.
 
 ### Structural model
-Folder for matlab code. Results are geneterated using Matlab 20xx and Dynare x.x.x
+Folder for matlab code. Results are geneterated using Matlab 9.7 (R2019b) and Dynare x.x.x
